@@ -1,2 +1,18 @@
-@import url("./footer.css");
-@import url("./header.css");
+@import "../css/header.css";
+@import "../css/experience_sections.css";
+@import "../css/footer.css";
+
+
+.container {
+    width: min(1440px, 100%);
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    font-family: "DM Serif Display", "DM Sans", sans-serif;
+    background: #FFFBF4;
+}
+
+
+

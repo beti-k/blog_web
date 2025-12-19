@@ -1,0 +1,100 @@
+.experience-section1 {
+    padding: 140px 46px;
+}
+
+.experience-section1-main-txt {
+    margin-bottom: 65px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 100px;
+    line-height: 117%;
+    letter-spacing: 0%;
+}
+
+.experience-section1-btn {
+    background-color: #14A998;
+    padding: 16px 32px;
+    color: #FFFFFF;
+    border: none;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 30px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    border-radius: 33.5px;
+}
+
+.experience-section2-main-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.experience-main-logo {
+    width: 120.1px;
+    height: 185.6px;
+    opacity: 1;
+    border-width: 4px;
+}
+
+.experience-section3 {
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 37px;
+}
+
+.experience-section3-first-img {
+    width: 683px;
+    height: 658px;
+    opacity: 1;
+    border-top-right-radius: 350px;
+    border-bottom-right-radius: 350px;
+}
+
+.experience-section3-heading {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 80px;
+    leading-trim: NONE;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.experience-section3-p p{
+    margin-bottom: 20px;
+}
+
+.experience-section3-p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #000000;
+}
+
+.experience-section3-btn {
+    width: 176.6px;
+    height: 50px;
+    opacity: 1;
+    border-radius: 25px;
+    background-color: #D7C094;
+    color: #FFFFFF;
+    border: none;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    line-height: 117%;
+}
+
+
+

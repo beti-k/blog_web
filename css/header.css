@@ -1,0 +1,59 @@
+header {
+    background-image: url("../images/header-img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 829px;
+    border-bottom-left-radius: 150px;
+    border-bottom-right-radius: 150px;
+}
+
+.header-logo {
+    width: 49.8px;
+    height: 77.2px;
+    opacity: 1;
+    border-width: 2px;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 48px;
+}
+
+.header-ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 45.9px;
+}
+
+.header-li-link {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 30px;
+    line-height: 117%;
+    text-align: center;
+    color: #000000;
+}
+
+.header-btn {
+    width: 177.7px;
+    height: 50;
+    top: 39px;
+    opacity: 1;
+    border-radius: 25px;
+    border: none;
+    background-color: #000000;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #fff;
+    cursor: pointer;
+    padding: 11px 18px;
+}
