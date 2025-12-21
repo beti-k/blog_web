@@ -60,15 +60,14 @@
     font-weight: 400;
     font-style: Regular;
     font-size: 80px;
-    leading-trim: NONE;
     line-height: 117%;
     letter-spacing: 0%;
     color: #000000;
     margin-bottom: 30px;
 }
 
-.experience-section3-p p{
-    margin-bottom: 20px;
+.experience-section3-p p {
+    margin-bottom: 30px;
 }
 
 .experience-section3-p {
@@ -96,5 +95,59 @@
     line-height: 117%;
 }
 
+.experience-section4 {
+    margin-top: 81px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 45px;
+}
 
+.experience-section4-heading {
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 80px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #000000;
+    margin-bottom: 30px;
+}
 
+.experience-section4-p p {
+    margin-bottom: 30px;
+}
+
+.experience-section4-p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 20px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #000000;
+}
+
+.experience-section4-img {
+    width: 755px;
+    height: 678px;
+    opacity: 1;
+    border-top-left-radius: 350px;
+    border-bottom-left-radius: 350px;
+}
+
+.experience-section4-btn {
+    background-color: #14A998;
+    width: 198px;
+    height: 50px;
+    opacity: 1;
+    border-radius: 25px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 25px;
+    line-height: 117%;
+    letter-spacing: 0%;
+    color: #FFFFFF;
+    border: none;
+}
